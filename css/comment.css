@@ -1,0 +1,24 @@
+     <style>
+          Body{
+          	font-family:"Helvetica";
+          	-webkie-overflow-scrolling:both;
+          	overflow-scrolling:both;
+          }
+          a,input,form{
+         	-webkit-tap-highlight-color:rgba(0,0,0,0);
+         	-webkit-appearance:none;
+
+         }
+         *{
+         	-webkit-text-size-adjust:100%;
+         	-webkit-user-select:none;
+         	user-select:none;
+         	max-height:9999999;
+          text-size-adjust:100%;
+          padding: 0;
+          margin: 0;
+          list-style: none;
+          text-decoration: none;
+
+         }
+     </style>
